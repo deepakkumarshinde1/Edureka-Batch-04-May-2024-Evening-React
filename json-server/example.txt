@@ -1,0 +1,2 @@
+localhost:3004/user
+localhost:3004/product
